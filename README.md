@@ -11,13 +11,7 @@ Pages:
 - Home 
 - About
 - Portfolio
-- Blogs
+- services
 - Contact
+- experience
 
-
-# Demo
-[Youtube](https://youtu.be/BNOTvGjRj3A)
-
-
-# Contribution
-Open To Fork, Give Give Me a Simple credit
